@@ -6,6 +6,9 @@ Kamil Ablat Mierkamili
 ########################
 Parsa's repository details
 
+101356047_gb.txt
+101356047_devops.txt
+101356047_sdlc.txt
 ########################
 Algor's repository details
 
