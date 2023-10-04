@@ -14,3 +14,8 @@ Algor's repository details
 
 ########################
 Kamil's repository details
+1. Create my own branch
+2. Init 3 files as the requirement
+3. Update the content of those
+4. Commit and push all file to github repository
+5. Create PR

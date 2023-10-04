@@ -3,5 +3,6 @@ Collaboration
 Continuous Integration and Continuous Deployment
 Quality Assurance
 Scalability
+Hiigh availability
 Resilience and Disaster Recovery
 Adaptability
