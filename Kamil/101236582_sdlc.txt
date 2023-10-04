@@ -1,1 +1,7 @@
-Efficiency and Spee,Collaboration,Continuous Integration and Continuous Deployment.Quality Assurance,Scalability,Resilience and Disaster Recovery.Adaptability.
+Efficiency and Speed,
+Collaboration,
+Continuous Integration and Continuous Deployment
+Quality Assurance,
+Scalability,
+Resilience and Disaster Recovery
+Adaptability.
